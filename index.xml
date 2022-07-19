@@ -33,10 +33,34 @@
     </item>
     
     <item>
+      <title>Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation</title>
+      <link>/publication/islamov-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/islamov-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Damped Newton Method Achieves Global O(k^(-2)) and Local Quadratic Convergence Rate</title>
+      <link>/publication/hanzely-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/hanzely-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ZeroSARAH: Efficient Nonconvex Finite-Sum Optimization with Zero Full Gradient Computation</title>
       <link>/publication/li-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/li-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of First-Order Algorithms for Meta-Learning with Moreau Envelopes</title>
+      <link>/publication/mishchenko-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mishchenko-2021/</guid>
       <description></description>
     </item>
     
