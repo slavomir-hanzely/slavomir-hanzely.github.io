@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://slavomir-hanzely.github.io/academic-pages-demo/sitemap.xml
+Sitemap: https://slavomir-hanzely.github.io/sitemap.xml
