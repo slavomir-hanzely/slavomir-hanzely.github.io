@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;cs.DC&#34; | Slavomír Hanzely</title>
-    <link>slavomir-hanzely.github.io/tag/cs.dc/</link>
-      <atom:link href="slavomir-hanzely.github.io/tag/cs.dc/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/cs.dc/</link>
+      <atom:link href="/tag/cs.dc/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;cs.DC&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/slavomir-hanzely.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;cs.DC&#34;</title>
-      <link>slavomir-hanzely.github.io/tag/cs.dc/</link>
+      <link>/tag/cs.dc/</link>
     </image>
     
     <item>
       <title>ZeroSARAH: Efficient Nonconvex Finite-Sum Optimization with Zero Full Gradient Computation</title>
-      <link>slavomir-hanzely.github.io/publication/li-2021/</link>
+      <link>/publication/li-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/li-2021/</guid>
+      <guid>/publication/li-2021/</guid>
       <description></description>
     </item>
     
