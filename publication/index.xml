@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Slavomír Hanzely</title>
-    <link>slavomir-hanzely.github.io/publication/</link>
-      <atom:link href="slavomir-hanzely.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/</link>
+      <atom:link href="https://slavomir-hanzely.github.io/academic-pages-demo/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/slavomir-hanzely.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://slavomir-hanzely.github.io/academic-pages-demo/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>slavomir-hanzely.github.io/publication/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/</link>
     </image>
     
     <item>
       <title>Convergence of First-Order Algorithms for Meta-Learning with Moreau Envelopes</title>
-      <link>slavomir-hanzely.github.io/publication/mishchenko-2023-convergence/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/mishchenko-2023-convergence/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/mishchenko-2023-convergence/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/mishchenko-2023-convergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation</title>
-      <link>slavomir-hanzely.github.io/publication/islamov-2022/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/islamov-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/islamov-2022/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/islamov-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Damped Newton Method Achieves Global O(k^(-2)) and Local Quadratic Convergence Rate</title>
-      <link>slavomir-hanzely.github.io/publication/hanzely-2022/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/hanzely-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/hanzely-2022/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/hanzely-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZeroSARAH: Efficient Nonconvex Finite-Sum Optimization with Zero Full Gradient Computation</title>
-      <link>slavomir-hanzely.github.io/publication/li-2021/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/li-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/li-2021/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/li-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lower Bounds and Optimal Algorithms for Personalized Federated Learning</title>
-      <link>slavomir-hanzely.github.io/publication/hanzely-2020/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/hanzely-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/hanzely-2020/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/hanzely-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Learning of the Optimal Mini-Batch Size of SGD</title>
-      <link>slavomir-hanzely.github.io/publication/alfarra-2020/</link>
+      <link>https://slavomir-hanzely.github.io/academic-pages-demo/publication/alfarra-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>slavomir-hanzely.github.io/publication/alfarra-2020/</guid>
+      <guid>https://slavomir-hanzely.github.io/academic-pages-demo/publication/alfarra-2020/</guid>
       <description></description>
     </item>
     
